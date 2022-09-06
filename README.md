@@ -24,3 +24,4 @@ What i would fix/improve if i had time/knowledge?
 I really enjoyend working on this assignment, and hopefully the result will be satisfying. AGAIN, I am looking for a place that will see my potential and hunger.
 
 Thanks for reviewing my work, I'll be glad to get a feedback anyway.
+![צילום מסך 2022-09-06 140213](https://user-images.githubusercontent.com/82039964/188626319-3a99be76-0b9e-4644-856a-787c14dfc817.png)
