@@ -5,15 +5,17 @@ Some clarification: 0)That's my result under the time limit of one day. 1)I am a
 
 What's missing?
 
-Mainly a proper TS
-Serious error handling
+- Mainly a proper TS
+- Serious error handling
+- 
 What i would fix/improve if i had time/knowledge?
 
-Seperation between files
-Components folder for all of the App.tsx content.
-Sockets overload issues
-Much better UI
-Much cleaner code
+- Seperation between files
+- Components folder for all of the App.tsx content.
+- Sockets overload issues
+- Much better UI
+- Much cleaner code
+- 
 I really enjoyend working on this assignment, and hopefully the result will be satisfying. AGAIN, I am looking for a place that will see my potential and hunger.
 
 Thanks for reviewing my work, I'll be glad to get a feedback anyway.
