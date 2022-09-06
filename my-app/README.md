@@ -1,4 +1,4 @@
-To run the server --> node ./index.js from the "server" folder
+To run the server --> node ./index.js from the "server" folder |||
 To run the client --> npm start from the "my-app" folder
 
 Some clarification:
