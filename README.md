@@ -12,7 +12,7 @@ What's missing?
 
 - Mainly a proper TS
 - Serious error handling
-- 
+
 What i would fix/improve if i had time/knowledge?
 
 - Seperation between files
@@ -20,7 +20,7 @@ What i would fix/improve if i had time/knowledge?
 - Sockets overload issues
 - Much better UI
 - Much cleaner code
-- 
+ 
 I really enjoyend working on this assignment, and hopefully the result will be satisfying. AGAIN, I am looking for a place that will see my potential and hunger.
 
 Thanks for reviewing my work, I'll be glad to get a feedback anyway.
