@@ -3,7 +3,7 @@
 - To run the client --> npm start from the "my-app" folder
 
 Some clarification: 
- 0) That's my result under the time limit of one day. 
+* 0) That's my result under the time limit of one day. 
  1) I am aware to the bugs- Not prodcution ready, no appropriate seperation between files, no appropriate error handling, socket.io issues and more. In General I AM AWARE TO MY LEVEL (Junior programmer, never wrote a signle line to production, Just finished my degree). 
  2) I am willing to learn, develop and work under junior conditions. 
  3) Hope you'll notice my potential, I'm hungry to learn a real industry standart.
