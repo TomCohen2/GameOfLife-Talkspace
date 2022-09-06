@@ -12,11 +12,11 @@ What's missing?
 - Serious error handling 
 
 What i would fix/improve if i had time/knowledge?
--Seperation between files
--Components folder for all of the App.tsx content.
--Sockets overload issues
--Much better UI
--Much cleaner code
+- Seperation between files
+- Components folder for all of the App.tsx content.
+- Sockets overload issues
+- Much better UI
+- Much cleaner code
 
 
 I really enjoyend working on this assignment, and hopefully the result will be satisfying.
